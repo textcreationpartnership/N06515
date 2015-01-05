@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008268_0000_102E79D142FD1B30"/>
-            <pb facs="tcp:008268_0001_102E79D2C9A74C58"/>
+            <pb facs="unknown:008268_0000_102E79D142FD1B30"/>
+            <pb facs="unknown:008268_0001_102E79D2C9A74C58"/>
             <p>
                <hi>TILDEN</hi>'s MISCELLANEOUS POEMS, ON Divers Occaſions; Chiefly to animate and rouſe the SOLDIERS.</p>
             <p>The Third EDITION, with ſundry ADDITIONS.</p>
@@ -123,7 +123,7 @@
                <hi>NEW-LONDON</hi> Printed and ſold by T. GREEN</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:008268_0002_102E79D56EA7C960"/>
+            <pb facs="unknown:008268_0002_102E79D56EA7C960"/>
             <head>PREFACE, OR, INTRODUCTION.</head>
             <opener>
                <salute>Ingenious and Courteous READER,</salute>
@@ -148,7 +148,7 @@
                </gap>. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="iv" facs="tcp:008268_0003_102E79D8122A3138"/>Effort I made laſt Spring was ſo well accepted by the Gentlemen of the Army, that I am thereby ambold<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="iv" facs="unknown:008268_0003_102E79D8122A3138"/>Effort I made laſt Spring was ſo well accepted by the Gentlemen of the Army, that I am thereby ambold<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> to rev<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -214,7 +214,7 @@
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:008268_0003_102E79D8122A3138"/>
+            <pb facs="unknown:008268_0003_102E79D8122A3138"/>
             <head>Miſcellaneous Poems.</head>
             <div n="1" type="poem">
                <head>I. The Britiſh Lion rouſed.</head>
@@ -265,7 +265,7 @@
                   </l>
                </lg>
                <lg n="7">
-                  <pb n="6" facs="tcp:008268_0004_102E79DB05EEAD40"/>
+                  <pb n="6" facs="unknown:008268_0004_102E79DB05EEAD40"/>
                   <head>7.</head>
                   <l>They buy our Scalps, exciting Savage Cla<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -338,7 +338,7 @@
                      </gap> agaſt and ſcrach's his Head.</l>
                </lg>
                <lg n="15">
-                  <pb n="7" facs="tcp:008268_0004_102E79DB05EEAD40"/>
+                  <pb n="7" facs="unknown:008268_0004_102E79DB05EEAD40"/>
                   <head>15.</head>
                   <l>My roving Muſe the Surface reach again,</l>
                   <l>Search every Part of the Atlantic Plain,</l>
@@ -383,7 +383,7 @@
                   </l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:008268_0005_102E79DC8E9C7E68"/>
+                  <pb n="8" facs="unknown:008268_0005_102E79DC8E9C7E68"/>
                   <l>And Cloud your Sun with popiſh Superſtition,</l>
                   <l>And make you dread their bloody Inquiſition.</l>
                   <l>In vain you'l ſign, and make your ſad Complaints</l>
@@ -445,7 +445,7 @@
                         <desc>•</desc>
                      </gap>eroes, roll them to their Graves:</l>
                   <l>
-                     <pb n="9" facs="tcp:008268_0005_102E79DC8E9C7E68"/>
+                     <pb n="9" facs="unknown:008268_0005_102E79DC8E9C7E68"/>
 Since they the Blood of Innocents have ſhed,</l>
                   <l>Let thundering Bombs fall blazing on their Head</l>
                   <l>With dire confuſion hurl them to the dead.</l>
@@ -524,7 +524,7 @@ Since they the Blood of Innocents have ſhed,</l>
                </lg>
             </div>
             <div n="3" type="poem">
-               <pb n="10" facs="tcp:008268_0006_102E79E064AE1748"/>
+               <pb n="10" facs="unknown:008268_0006_102E79E064AE1748"/>
                <head>III. <hi>Braddock</hi>'s Fate; with an incitement to Revenge.</head>
                <p>Compos'd, <hi>Auguſt</hi> 20, 1766.</p>
                <lg>
@@ -571,7 +571,7 @@ Since they the Blood of Innocents have ſhed,</l>
                         <desc>〈…〉</desc>
                      </gap> forc'd him to retreat.</l>
                   <l>
-                     <pb n="11" facs="tcp:008268_0006_102E79E064AE1748"/>
+                     <pb n="11" facs="unknown:008268_0006_102E79E064AE1748"/>
 As dy'd upon the Thirteenth Day,</l>
                   <l>As he was homeward on his Way,</l>
                   <l>Alas! alas! we all muſt ſay,</l>
@@ -624,7 +624,7 @@ As dy'd upon the Thirteenth Day,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="12" facs="tcp:008268_0007_102E79E30CCCCB60"/>
+               <pb n="12" facs="unknown:008268_0007_102E79E30CCCCB60"/>
                <head>
                   <hi>A Survey of the FIELD of</hi> BATTLE.</head>
                <lg>
@@ -669,7 +669,7 @@ As dy'd upon the Thirteenth Day,</l>
                   <l>And praiſe their Demon Gods.</l>
                </lg>
                <lg n="4">
-                  <pb n="13" facs="tcp:008268_0007_102E79E30CCCCB60"/>
+                  <pb n="13" facs="unknown:008268_0007_102E79E30CCCCB60"/>
                   <head>4.</head>
                   <l>Revenge, revenge the harmleſs Blood;</l>
                   <l>Which theſe inhuman Dogs have ſhed,</l>
@@ -718,7 +718,7 @@ As dy'd upon the Thirteenth Day,</l>
                   <l>And then theſe Savage Powers will break,</l>
                   <l>Which long have us oppreſs'd</l>
                   <l>
-                     <pb n="14" facs="tcp:008268_0008_102E79E49645C070"/>
+                     <pb n="14" facs="unknown:008268_0008_102E79E49645C070"/>
 And this, brave Soldiers, will we do,</l>
                   <l>If <hi>Heaven</hi> and <hi>George</hi> ſhall ſay ſo too:</l>
                   <l>And if we drive the Matter thro',</l>
@@ -771,7 +771,7 @@ And this, brave Soldiers, will we do,</l>
                </lg>
             </div>
             <div n="4" type="poem">
-               <pb n="15" facs="tcp:008268_0008_102E79E49645C070"/>
+               <pb n="15" facs="unknown:008268_0008_102E79E49645C070"/>
                <head>IV. The CHRISTIAN HERO. Or, <hi>New England</hi>'s Triumph.</head>
                <p>Written ſoon after the Succeſs of our Arms at <hi>Nova-Scotia,</hi> and the ſignal Victory at <hi>Lake-George.</hi>
                </p>
@@ -799,7 +799,7 @@ And this, brave Soldiers, will we do,</l>
                   <l>Bleſs the delivering Power.</l>
                </lg>
                <lg n="3">
-                  <pb n="16" facs="tcp:008268_0009_102E79E62070FE20"/>
+                  <pb n="16" facs="unknown:008268_0009_102E79E62070FE20"/>
                   <head>3.</head>
                   <l>He is our Fortreſs and our Shield;</l>
                   <l>He ſav'd us in the bloody Field,</l>
@@ -843,7 +843,7 @@ And this, brave Soldiers, will we do,</l>
                   <l>The watry Walls like Caſtles ſtood;</l>
                   <l>'Till Iſrael reach'd the Land;</l>
                   <l>
-                     <pb n="17" facs="tcp:008268_0009_102E79E62070FE20"/>
+                     <pb n="17" facs="unknown:008268_0009_102E79E62070FE20"/>
 But fell with moſt tremendous Force,</l>
                   <l>On Pharaoh's Riders, and His Horſe,</l>
                   <l>'Til they were daſh'd, and drown'd, and loſt,</l>
@@ -913,7 +913,7 @@ But fell with moſt tremendous Force,</l>
                   <l>His Servants to devour.</l>
                </lg>
                <lg n="10">
-                  <pb n="18" facs="tcp:008268_0010_102E79EB475307D0"/>
+                  <pb n="18" facs="unknown:008268_0010_102E79EB475307D0"/>
                   <head>10.</head>
                   <l>He's ſtill the ſame almighty GOD,</l>
                   <l>He brought our Fathers o'er the Flood:</l>
@@ -965,7 +965,7 @@ But fell with moſt tremendous Force,</l>
                   <l>And from Pollution purge us thro'</l>
                   <l>Waſh us and make us clear,</l>
                   <l>
-                     <pb n="19" facs="tcp:008268_0010_102E79EB475307D0"/>
+                     <pb n="19" facs="unknown:008268_0010_102E79EB475307D0"/>
 In Lavers of that precious Blood,</l>
                   <l>Which iſſued from the Son or GOD,</l>
                   <l>More healing than was <hi>Siloams Flood;</hi>
@@ -1008,7 +1008,7 @@ In Lavers of that precious Blood,</l>
                   <l>And founded in the Duſt?</l>
                </lg>
                <lg n="17">
-                  <pb n="20" facs="tcp:008268_0011_102E79EEB8B307A8"/>
+                  <pb n="20" facs="unknown:008268_0011_102E79EEB8B307A8"/>
                   <head>17.</head>
                   <l>The reigning Powers around his Throne,</l>
                   <l>Before him they do caſt their Crown;</l>
@@ -1061,7 +1061,7 @@ In Lavers of that precious Blood,</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="21" facs="tcp:008268_0011_102E79EEB8B307A8"/>
+                     <pb n="21" facs="unknown:008268_0011_102E79EEB8B307A8"/>
 And baſe Efforts of ſmall Revenge,</l>
                   <l>The bonds of Union will unhinge,</l>
                   <l>And ſeparate endearing Friends;</l>
@@ -1110,7 +1110,7 @@ And baſe Efforts of ſmall Revenge,</l>
                      </gap> the Land.</l>
                </lg>
                <lg n="5">
-                  <pb n="22" facs="tcp:008268_0012_102E79F045849130"/>
+                  <pb n="22" facs="unknown:008268_0012_102E79F045849130"/>
                   <head>5.</head>
                   <l>All Men in Power, if you pleaſe;</l>
                   <l>I could intreat you on my Knees,</l>
@@ -1181,7 +1181,7 @@ And baſe Efforts of ſmall Revenge,</l>
                      </gap>aſting Shame,</l>
                   <l>I'll tell him for his Pains.</l>
                   <l>
-                     <pb n="23" facs="tcp:008268_0012_102E79F045849130"/>
+                     <pb n="23" facs="unknown:008268_0012_102E79F045849130"/>
 For, Nature hurry'd, I'm afraid,</l>
                   <l>When that infamous Fop was made,</l>
                   <l>And in a Hurry clos'd his Head,</l>
@@ -1229,7 +1229,7 @@ For, Nature hurry'd, I'm afraid,</l>
                   <l>For the perſidious Villain.</l>
                </lg>
                <lg n="12">
-                  <pb n="24" facs="tcp:008268_0013_102E79F422A9A458"/>
+                  <pb n="24" facs="unknown:008268_0013_102E79F422A9A458"/>
                   <head>12.</head>
                   <l>Beneath this Stone interr'd doth lie,</l>
                   <l>The baſe born Son of Infamy;</l>
@@ -1268,7 +1268,7 @@ For, Nature hurry'd, I'm afraid,</l>
                         <desc>•</desc>
                      </gap> eſpouſe their Cauſe.</l>
                   <l>
-                     <pb n="25" facs="tcp:008268_0013_102E79F422A9A458"/>
+                     <pb n="25" facs="unknown:008268_0013_102E79F422A9A458"/>
 I think thy Sword of Martial Steel,</l>
                   <l>A ſort of Sympathy will <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1323,7 +1323,7 @@ I think thy Sword of Martial Steel,</l>
                   <l>And ſheath my Sword in Tears.</l>
                </lg>
                <lg n="6">
-                  <pb n="26" facs="tcp:008268_0014_102E79F71B7D23D0"/>
+                  <pb n="26" facs="unknown:008268_0014_102E79F71B7D23D0"/>
                   <head>6.</head>
                   <l>Yet if you ſay that I ſhall go,</l>
                   <l>I've ſtill a martial Soul I know,</l>
@@ -1359,7 +1359,7 @@ I think thy Sword of Martial Steel,</l>
                         <desc>•</desc>
                      </gap>e all undone.</l>
                   <l>
-                     <pb n="27" facs="tcp:008268_0014_102E79F71B7D23D0"/>
+                     <pb n="27" facs="unknown:008268_0014_102E79F71B7D23D0"/>
 Not <hi>Auſtria</hi>'s Pride, nor <hi>France</hi>'s Gaſconade,</l>
                   <l>Can ſtay his Arms, or make his Troops afraid;</l>
                   <l>Nor can old <hi>Boreas,</hi> from the northern Pole,</l>
@@ -1404,7 +1404,7 @@ Not <hi>Auſtria</hi>'s Pride, nor <hi>France</hi>'s Gaſconade,</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="28" facs="tcp:008268_0015_102E79F8A30FA1B8"/>
+                     <pb n="28" facs="unknown:008268_0015_102E79F8A30FA1B8"/>
 Or, as when <hi>Aeolus,</hi> thundering Blaſts are hurl'd,</l>
                   <l>As if he meant to level all the World.</l>
                   <l>Such are the Bowers, that are abundant given,</l>
@@ -1440,7 +1440,7 @@ Or, as when <hi>Aeolus,</hi> thundering Blaſts are hurl'd,</l>
                </lg>
             </div>
             <div n="8" type="poem">
-               <pb n="29" facs="tcp:008268_0015_102E79F8A30FA1B8"/>
+               <pb n="29" facs="unknown:008268_0015_102E79F8A30FA1B8"/>
                <head>VIII. A new Song of Triumph, On the Succeſs of His Majeſty's Arms<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> in <hi>North-America.</hi>
@@ -1530,7 +1530,7 @@ Or, as when <hi>Aeolus,</hi> thundering Blaſts are hurl'd,</l>
                         <desc>••</desc>
                      </gap>.—</l>
                   <l>
-                     <pb n="30" facs="tcp:008268_0016_102E79FBADC85E10"/>
+                     <pb n="30" facs="unknown:008268_0016_102E79FBADC85E10"/>
 Burn ſome alive, while roaſting in the Fire,</l>
                   <l>They eat their Fleſh, before they quite expire—</l>
                   <l>Tear out their Hearts, from their tormented Breaſts,</l>
@@ -1573,7 +1573,7 @@ Burn ſome alive, while roaſting in the Fire,</l>
                         <desc>•</desc>
                      </gap>.</l>
                   <l>
-                     <pb n="31" facs="tcp:008268_0016_102E79FBADC85E10"/>
+                     <pb n="31" facs="unknown:008268_0016_102E79FBADC85E10"/>
 While <hi>Pitt</hi> is careful to enrole thy Name,</l>
                   <l>Among the moſt exalted Sons of Fame.</l>
                   <l>This preſent Year, our brave and warlike Hoſt,</l>
@@ -1625,7 +1625,7 @@ While <hi>Pitt</hi> is careful to enrole thy Name,</l>
                   <l>May they remain unto the <hi>Britiſh</hi> Crown,</l>
                   <l>Glorious Trephies of his great Renown:</l>
                   <l>
-                     <pb n="32" facs="tcp:008268_0017_102E79FED83071A0"/>
+                     <pb n="32" facs="unknown:008268_0017_102E79FED83071A0"/>
 Ages to come, ſhall ſing his praiſe, and ſay,</l>
                   <l>'Twas <hi>George</hi> the Great, ſubjected <hi>Canada.</hi>
                   </l>
@@ -1679,7 +1679,7 @@ Ages to come, ſhall ſing his praiſe, and ſay,</l>
                   <l>And far exceed the Limits of my Verſe,</l>
                   <l>May his Dominions be the Univerſe.</l>
                   <l>
-                     <pb n="33" facs="tcp:008268_0017_102E79FED83071A0"/>
+                     <pb n="33" facs="unknown:008268_0017_102E79FED83071A0"/>
 And Chriſt aſſume his mighty Power and reign,</l>
                   <l>So long as Tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1719,7 +1719,7 @@ And Chriſt aſſume his mighty Power and reign,</l>
                   <l>And cloath their Necks with Thunder.</l>
                </lg>
                <lg n="3">
-                  <pb n="34" facs="tcp:008268_0018_102E7A0420BC5F00"/>
+                  <pb n="34" facs="unknown:008268_0018_102E7A0420BC5F00"/>
                   <head>3.</head>
                   <l>The thundering Peals, and ſulpherous Blaze,</l>
                   <l>Strike down our Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1770,7 +1770,7 @@ And Chriſt aſſume his mighty Power and reign,</l>
                   </l>
                   <l>Submits to <hi>Britiſh</hi> Power.</l>
                   <l>
-                     <pb n="35" facs="tcp:008268_0018_102E7A0420BC5F00"/>
+                     <pb n="35" facs="unknown:008268_0018_102E7A0420BC5F00"/>
 Then <hi>Guadaloupe,</hi> and <hi>Cape-Breton,</hi>
                   </l>
                   <l>And <hi>Canada</hi> comes kneeling down,</l>
@@ -1819,7 +1819,7 @@ Then <hi>Guadaloupe,</hi> and <hi>Cape-Breton,</hi>
                </lg>
             </div>
             <div n="10" type="poem">
-               <pb n="36" facs="tcp:008268_0019_102E7A05A63D3EE0"/>
+               <pb n="36" facs="unknown:008268_0019_102E7A05A63D3EE0"/>
                <head>X. A Supplement to the General Triumph.</head>
                <p>Compos'd ſoon after the Surrender of the HAVANNAH.</p>
                <lg>
@@ -1879,7 +1879,7 @@ Then <hi>Guadaloupe,</hi> and <hi>Cape-Breton,</hi>
                      </gap>er there,</l>
                   <l>Than keep afloat, and be where <hi>Britons</hi> are.</l>
                   <l>
-                     <pb n="37" facs="tcp:008268_0019_102E7A05A63D3EE0"/>
+                     <pb n="37" facs="unknown:008268_0019_102E7A05A63D3EE0"/>
 Their Gaſconades, they find are all in vain,</l>
                   <l>And flee for Shelter, to the Arms of <hi>Spain.</hi>
                   </l>
@@ -1924,7 +1924,7 @@ Their Gaſconades, they find are all in vain,</l>
                   <l>We may be ſure, ſhe had forgot the Fate</l>
                   <l>They met in Fifteen Hundred Eighty Eight;</l>
                   <l>
-                     <pb n="38" facs="tcp:008268_0020_102E7A072CA4ECB0"/>
+                     <pb n="38" facs="unknown:008268_0020_102E7A072CA4ECB0"/>
 When <hi>Britons</hi> burnt, and ſunk into the Main,</l>
                   <l>The Power and Grandeur, and the Wealth of <hi>Spain,</hi>
                   </l>
@@ -1968,7 +1968,7 @@ When <hi>Britons</hi> burnt, and ſunk into the Main,</l>
                   </l>
                   <l>Of whom, in <hi>Britain,</hi> they have never heard,</l>
                   <l>
-                     <pb n="39" facs="tcp:008268_0020_102E7A072CA4ECB0"/>
+                     <pb n="39" facs="unknown:008268_0020_102E7A072CA4ECB0"/>
 'Twould make the Blood, run youthful in his Veins,</l>
                   <l>And animate his moſt exalted Strains;</l>
                   <l>And give the Bard, a Piece of conquer'd Land<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2027,7 +2027,7 @@ When <hi>Britons</hi> burnt, and ſunk into the Main,</l>
                </lg>
             </div>
             <div n="12" type="poem">
-               <pb n="40" facs="tcp:008268_0021_102E7A08B34B83F8"/>
+               <pb n="40" facs="unknown:008268_0021_102E7A08B34B83F8"/>
                <head>XII. The Vanity and Uncer<g ref="char:EOLhyphen"/>tainty of all ſublunary Things.</head>
                <lg>
                   <l>MY Muſe, mount on the Morning Wings,</l>
@@ -2057,7 +2057,7 @@ When <hi>Britons</hi> burnt, and ſunk into the Main,</l>
                   <l>If theſe your Demi-gods you call.</l>
                   <l>Becauſe they bore a mighty Sway.</l>
                   <l>
-                     <pb n="41" facs="tcp:008268_0021_102E7A08B34B83F8"/>
+                     <pb n="41" facs="unknown:008268_0021_102E7A08B34B83F8"/>
 Then Earthquakes, Feavers, Plagues and Floods,</l>
                   <l>Are much greater Demi-gods;</l>
                   <l>Becauſe they bore a larger Sway,</l>
@@ -2123,7 +2123,7 @@ Then Earthquakes, Feavers, Plagues and Floods,</l>
                      </gap> below.</l>
                </lg>
                <lg n="7">
-                  <pb n="42" facs="tcp:008268_0022_102E7A0E55485188"/>
+                  <pb n="42" facs="unknown:008268_0022_102E7A0E55485188"/>
                   <head>7.</head>
                   <l>'Tis <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -2166,7 +2166,7 @@ Then Earthquakes, Feavers, Plagues and Floods,</l>
                   <l>To be our <hi>Summum Bonum</hi> here;</l>
                   <l>Or where ſhall we this Treaſure find?</l>
                   <l>
-                     <pb n="43" facs="tcp:008268_0022_102E7A0E55485188"/>
+                     <pb n="43" facs="unknown:008268_0022_102E7A0E55485188"/>
 The Man whom Virtue truly ſhows.</l>
                   <l>To be content were <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2221,7 +2221,7 @@ The Man whom Virtue truly ſhows.</l>
                   <l>Than all the Mines in the Spaniſh Weſt.</l>
                </lg>
                <lg n="14">
-                  <pb n="44" facs="tcp:008268_0023_102E77F292F31EB8"/>
+                  <pb n="44" facs="unknown:008268_0023_102E77F292F31EB8"/>
                   <head>14.</head>
                   <l>The Man who hath this heav'nly Bliſs;</l>
                   <l>His Subſtance, be it more or leſs;</l>
@@ -2245,7 +2245,7 @@ The Man whom Virtue truly ſhows.</l>
                   <l>To keep off all obtruding Sound,</l>
                   <l>And Silence for to keep.</l>
                   <l>
-                     <pb n="45" facs="tcp:008268_0023_102E77F292F31EB8"/>
+                     <pb n="45" facs="unknown:008268_0023_102E77F292F31EB8"/>
 My troubled Mind, no Reſt did find,</l>
                   <l>But ſtill I felt Diſtreſs;</l>
                   <l>'Til that a Scene did intervene,</l>
@@ -2282,7 +2282,7 @@ My troubled Mind, no Reſt did find,</l>
                   <l>And endleſs Charity.</l>
                </lg>
                <lg>
-                  <pb n="46" facs="tcp:008268_0024_102E7A128AE0F920"/>
+                  <pb n="46" facs="unknown:008268_0024_102E7A128AE0F920"/>
                   <l>No Lawyers Pleas, for double Fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>,</l>
@@ -2324,7 +2324,7 @@ My troubled Mind, no Reſt did find,</l>
                   <l>Men live in Love like Saints above,</l>
                   <l>In Peace and Unitie;</l>
                   <l>
-                     <pb n="47" facs="tcp:008268_0024_102E7A128AE0F920"/>
+                     <pb n="47" facs="unknown:008268_0024_102E7A128AE0F920"/>
 The Knowledge of God, covers the Globe,</l>
                   <l>As Waters do the Sea.</l>
                </lg>
@@ -2380,7 +2380,7 @@ The Knowledge of God, covers the Globe,</l>
                </lg>
             </div>
             <div n="14" type="poem">
-               <pb n="48" facs="tcp:008268_0025_102E7A1658BC5A08"/>
+               <pb n="48" facs="unknown:008268_0025_102E7A1658BC5A08"/>
                <head>XIV. <hi>An Epitaph</hi> Upon Sir <hi>ISAAC NEWTON.</hi>
                </head>
                <lg>
@@ -2417,7 +2417,7 @@ The Knowledge of God, covers the Globe,</l>
                </lg>
             </div>
             <div n="15" type="poem">
-               <pb n="49" facs="tcp:008268_0025_102E7A1658BC5A08"/>
+               <pb n="49" facs="unknown:008268_0025_102E7A1658BC5A08"/>
                <head>XV. <hi>An Epitaph</hi> upon my Friend Doct. <hi>THOMAS LANGERELL. Who was drowned in</hi> Connecticut<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -2441,7 +2441,7 @@ The Knowledge of God, covers the Globe,</l>
                </lg>
             </div>
             <div n="16" type="poem">
-               <pb n="50" facs="tcp:008268_0026_102E7A18FB14D508"/>
+               <pb n="50" facs="unknown:008268_0026_102E7A18FB14D508"/>
                <head>XVI. An ESSAY on Prodegies and Earthquakes.</head>
                <lg>
                   <l>HAil heaven born Muſe, the chief of all the Nine,</l>
@@ -2491,7 +2491,7 @@ The Knowledge of God, covers the Globe,</l>
                         <desc>•</desc>
                      </gap> Shrieks, &amp; Swoons, &amp; cruel Death was there,</l>
                   <l>
-                     <pb n="51" facs="tcp:008268_0026_102E7A18FB14D508"/>
+                     <pb n="51" facs="unknown:008268_0026_102E7A18FB14D508"/>
 While neighbouring Rocks &amp; Hillsrepulſe their Cries</l>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2535,7 +2535,7 @@ While neighbouring Rocks &amp; Hillsrepulſe their Cries</l>
                      </gap>ſs,</l>
                   <l>Who did effect my Cure:</l>
                   <l>
-                     <pb n="52" facs="tcp:008268_0027_102E7A1BC9AE7078"/>
+                     <pb n="52" facs="unknown:008268_0027_102E7A1BC9AE7078"/>
 The Laws of Grati<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>de impart</l>
@@ -2581,7 +2581,7 @@ The Laws of Grati<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      </gap>treſs;</l>
                   <l>Our Souls perhaps are Mates:</l>
                   <l>
-                     <pb n="53" facs="tcp:008268_0027_102E7A1BC9AE7078"/>
+                     <pb n="53" facs="unknown:008268_0027_102E7A1BC9AE7078"/>
 But yours hover'd round the Air,</l>
                   <l>For near the Space of F<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2623,7 +2623,7 @@ But yours hover'd round the Air,</l>
                   <l>Til you ſhall married he,</l>
                </lg>
                <lg n="5">
-                  <pb n="54" facs="tcp:008268_0028_102E7A1E67C76150"/>
+                  <pb n="54" facs="unknown:008268_0028_102E7A1E67C76150"/>
                   <head>5.</head>
                   <l>When Heaven ſhall ſign the grand Releaſe,</l>
                   <l>Of this young charming Poetreſs;</l>
@@ -2664,7 +2664,7 @@ But yours hover'd round the Air,</l>
                   <l>To give you a pitiful Securing.</l>
                </lg>
                <lg n="3">
-                  <pb n="55" facs="tcp:008268_0028_102E7A1E67C76150"/>
+                  <pb n="55" facs="unknown:008268_0028_102E7A1E67C76150"/>
                   <head>3.</head>
                   <l>I'll tell you in brief, there was one of your Chief,</l>
                   <l>Who many a Law-Suit commences;</l>
@@ -2715,7 +2715,7 @@ But yours hover'd round the Air,</l>
                   <l>O lie, be gone, Satan, avoid.</l>
                </lg>
                <lg n="9">
-                  <pb n="56" facs="tcp:008268_0029_102E7A1FF92691C8"/>
+                  <pb n="56" facs="unknown:008268_0029_102E7A1FF92691C8"/>
                   <head>9.</head>
                   <l>The <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
@@ -2795,7 +2795,7 @@ But yours hover'd round the Air,</l>
                   </l>
                </lg>
                <lg n="15">
-                  <pb n="57" facs="tcp:008268_0029_102E7A1FF92691C8"/>
+                  <pb n="57" facs="unknown:008268_0029_102E7A1FF92691C8"/>
                   <head>15.</head>
                   <l>Half frighted to Dea<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -2839,7 +2839,7 @@ But yours hover'd round the Air,</l>
                      </gap>nd,</l>
                   <l>Some learned Head more frugal and more kind,</l>
                   <l>
-                     <pb n="58" facs="tcp:008268_0030_102E7A24DBDAD430"/>
+                     <pb n="58" facs="unknown:008268_0030_102E7A24DBDAD430"/>
 What ſhall enlarge thy Feet and make thee <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
@@ -2909,7 +2909,7 @@ What ſhall enlarge thy Feet and make thee <gap reason="illegible" resp="#PDCC" 
       </body>
       <back>
          <div type="apology">
-            <pb facs="tcp:008268_0030_102E7A24DBDAD430"/>
+            <pb facs="unknown:008268_0030_102E7A24DBDAD430"/>
             <head>The Author's Apology to the laſt Impreſſion.</head>
             <opener>
                <salute>Indulgent and Friendly Readers,</salute>
